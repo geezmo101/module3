@@ -8,7 +8,7 @@
     border: 0.5px solid #00004d;
     margin-bottom: 1px;
 }
-#menu-tab1:hover,#menu-tab2:hover,#menu-tab3:hover{
+#menu-tab1:hover{
     background-color: #ccc;
 }
 #menu-tab1,#item-heading-1{
